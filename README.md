@@ -73,7 +73,6 @@
 ### Disabling HTML5 Validation in React Using formsy-react
 ### Scrolling Inside a div in React
 ### Component Composition in React
-### Creating <select> Elements in React
 ### Event Listeners in React Components
 ### How to Dismiss a React-Bootstrap Popover on Click Outside
 ### Async/Await Keywords with Array.Map in React
@@ -174,7 +173,6 @@
 ### How to Remove Unused Dependencies in React
 ### How to Wrap One React Component into Another
 ### Loading Remote Chart Data for D3.js in a React App
-### How to Render <a> with Optional href in React
 ### How to Use the Enter Key Event Handler on a React-Bootstrap Input Component
 ### Unsubscribe in a React Component Using Redux
 ### How to Implement a Component Loop in React
