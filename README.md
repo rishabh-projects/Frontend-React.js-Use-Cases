@@ -1,4 +1,4 @@
-# Frontend-React.js-Use-Cases
+## React.js Use Cases
 
 ### Using WebSockets in our React/Redux App
 ### Simplifying Redux Bindings with React Hooks
