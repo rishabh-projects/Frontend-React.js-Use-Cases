@@ -1,6 +1,7 @@
 ## React.js Use Cases
 
 ### Using WebSockets in our React/Redux App
+
 ### Simplifying Redux Bindings with React Hooks
 ### Drawing Charts in React with D3
 ### Using React's Context API with Typescript
